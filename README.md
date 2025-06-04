@@ -1,5 +1,5 @@
 ## Hi there 👋
-##🔭 I’m currently working on the fundamentals of Flask and SQL databases
+🔭 I’m currently working on the fundamentals of Flask and SQL databases
 <!--
 **SC-MMO/SC-MMO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
